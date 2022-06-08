@@ -1,2 +1,5 @@
 def func(a, b):
-	print(a * b)
+	return a * b 
+
+def useless(x):
+	return x**2
